@@ -5,7 +5,8 @@ public class GitTest1 {
 		// TODO Auto-generated method stub
 		int a=10;
 		int b=20;
-		//d
+		int z=a+b;
+		System.out.println(z);
 
 	}
 
